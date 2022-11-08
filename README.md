@@ -11,8 +11,6 @@ license: creativeml-openrail-m
 # Stable Diffusion fine tuned on Midjourney v4 images, by [PromptHero](https://prompthero.com/)
 
 Use prompt: 'mdjrny-v4 style'
-[![Open In Colab](https://colab.research.google.com/drive/1vkuxKKeSYNYI2OLZm8mR-WqcokQtSURM#scrollTo=47kV9o1Ni8GH)
-
 
 ### Stable Diffusion v1.5 vs Midjourney v4 Diffusion 
 (Same parameters, just added "mdjrny-v4 style" at the beginning):
