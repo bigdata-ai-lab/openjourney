@@ -1,6 +1,5 @@
 ---
 inference: false
-thumbnail: "https://s3.amazonaws.com/moonup/production/uploads/1667904587553-63265d019f9d19bfd4f45031.png"
 language:
   - en
 tags:
