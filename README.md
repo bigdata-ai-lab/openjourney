@@ -1,5 +1,5 @@
 ---
-inference: false
+inference: true
 language:
   - en
 tags:
