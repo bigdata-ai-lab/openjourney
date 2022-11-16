@@ -33,10 +33,10 @@ You can also export the model to [ONNX](https://huggingface.co/docs/diffusers/op
 ```python
 from diffusers import StableDiffusionPipeline
 import torch
-model_id = "nitrosocke/mo-di-diffusion"
+model_id = "prompthero/midjourney-v4-diffusion "
 pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16)
 pipe = pipe.to("cuda")
-prompt = "a magical princess with golden hair, modern disney style"
+prompt = "retro serie of different cars with different colors and shapes, mdjrny-v4 style"
 image = pipe(prompt).images[0]
-image.save("./magical_princess.png")
+image.save("./retro_cars.png")
 ```
