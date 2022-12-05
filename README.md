@@ -12,8 +12,6 @@ license: creativeml-openrail-m
 
 Use prompt: 'mdjrny-v4 style'
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vkuxKKeSYNYI2OLZm8mR-WqcokQtSURM?usp=sharing)
-
 # Gradio
 
 We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Openjourney:
