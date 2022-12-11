@@ -29,7 +29,7 @@ We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Openjo
 <img src="https://s3.amazonaws.com/moonup/production/uploads/1667904587609-63265d019f9d19bfd4f45031.png" width="100%"/>
 <img src="https://s3.amazonaws.com/moonup/production/uploads/1667904587646-63265d019f9d19bfd4f45031.png" width="100%"/>
 
-[Click here](https://prompthero.com/search?model=Midjourney+Diffusion&q=road+) for more Openjourney prompts and inspiration.
+[Click here](https://prompthero.com/openjourney-prompts) for more Openjourney prompts and inspiration.
 
 
 
