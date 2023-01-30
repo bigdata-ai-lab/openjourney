@@ -7,8 +7,6 @@ tags:
   - text-to-image
 license: creativeml-openrail-m
 ---
-
-
 # Openjourney is an open source Stable Diffusion fine tuned model on Midjourney images, by [PromptHero](https://prompthero.com/)
 
 Include 'mdjrny-v4 style' in prompt
