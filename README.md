@@ -9,17 +9,13 @@ license: creativeml-openrail-m
 ---
 # Openjourney is an open source Stable Diffusion fine tuned model on Midjourney images, by [PromptHero](https://prompthero.com/)
 
-Include 'mdjrny-v4 style' in prompt
+Include **'mdjrny-v4 style'** in prompt. Here you'll find hundreds of [Openjourney prompts](https://prompthero.com/openjourney-prompts)
 
-# PromptHero:
-> [Openjourney prompts and inspiration](https://prompthero.com/openjourney-prompts)
-> [Crash course in AI art generation](https://prompthero.com/academy/prompt-engineering-course)
-> [Learn to fine-tune Stable Diffusion for photorealism](https://prompthero.com/academy/dreambooth-stable-diffusion-train-fine-tune-course)
+# Want to learn AI art generation?:
+- [Crash course in AI art generation](https://prompthero.com/academy/prompt-engineering-course)
+- [Learn to fine-tune Stable Diffusion for photorealism](https://prompthero.com/academy/dreambooth-stable-diffusion-train-fine-tune-course)
 
-
-# Gradio
-
-We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Openjourney:
+# Use it for free:
 [![Open In Spaces](https://camo.githubusercontent.com/00380c35e60d6b04be65d3d94a58332be5cc93779f630bcdfc18ab9a3a7d3388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565)](https://huggingface.co/spaces/akhaliq/midjourney-v4-diffusion)
 
 ### Stable Diffusion v1.5 vs Openjourney 
