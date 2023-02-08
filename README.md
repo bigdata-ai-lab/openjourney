@@ -12,7 +12,7 @@ license: creativeml-openrail-m
 Include **'mdjrny-v4 style'** in prompt. Here you'll find hundreds of [Openjourney prompts](https://prompthero.com/openjourney-prompts?utm_source=huggingface&utm_medium=referral)
 
 # Openjourney Links
-- [Lora version](https://civitai.com/models/7445/openjourney-lora)
+- [Lora version](https://huggingface.co/prompthero/openjourney-lora)
 - [Openjourney v2](https://huggingface.co/prompthero/openjourney-v2)
 
 # Want to learn AI art generation?:
